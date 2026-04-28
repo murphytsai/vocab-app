@@ -281,9 +281,9 @@ export default function FillBlank({ words, setName }) {
       {/* ---- A4 Preview ---- */}
       {layout === 'one' ? (
         <div style={{
-          background: 'white', width: '210mm', height: '297mm',
+          background: 'white', width: '210mm', minHeight: '297mm',
           margin: '0 auto', padding: '5mm',
-          boxShadow: '0 2px 12px rgba(0,0,0,0.15)', borderRadius: 4, overflow: 'hidden',
+          boxShadow: '0 2px 12px rgba(0,0,0,0.15)', borderRadius: 4,
         }}>
           {renderPreviewHeader()}
           <div style={{ display: 'flex', gap: '2mm' }}>
@@ -295,9 +295,9 @@ export default function FillBlank({ words, setName }) {
         <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
           {twoPageCols.map(([l, r], pi) => (
             <div key={pi} style={{
-              background: 'white', width: '210mm', height: '297mm',
+              background: 'white', width: '210mm', minHeight: '297mm',
               margin: '0 auto', padding: '8mm',
-              boxShadow: '0 2px 12px rgba(0,0,0,0.15)', borderRadius: 4, overflow: 'hidden',
+              boxShadow: '0 2px 12px rgba(0,0,0,0.15)', borderRadius: 4,
             }}>
               {renderPreviewHeader()}
               <p style={{ textAlign: 'right', fontSize: '9pt', color: '#999', marginBottom: '2mm' }}>
