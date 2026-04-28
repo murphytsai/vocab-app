@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "english": "date",
+    "chinese": "n. 日期；約會"
+  },
+  {
+    "id": 2,
+    "english": "around",
+    "chinese": "adv. 圍繞；在附近"
+  },
+  {
+    "id": 3,
+    "english": "also",
+    "chinese": "adv. 也；此外"
+  },
+  {
+    "id": 4,
+    "english": "How about...?",
+    "chinese": "那...呢？"
+  },
+  {
+    "id": 5,
+    "english": "important",
+    "chinese": "adj. 重要的"
+  },
+  {
+    "id": 6,
+    "english": "holiday",
+    "chinese": "n. 節日；假日"
+  },
+  {
+    "id": 7,
+    "english": "birthday",
+    "chinese": "n. 生日"
+  },
+  {
+    "id": 8,
+    "english": "month",
+    "chinese": "n. 月份"
+  },
+  {
+    "id": 9,
+    "english": "January",
+    "chinese": "n. 一月"
+  },
+  {
+    "id": 10,
+    "english": "February",
+    "chinese": "n. 二月"
+  },
+  {
+    "id": 11,
+    "english": "March",
+    "chinese": "n. 三月"
+  },
+  {
+    "id": 12,
+    "english": "April",
+    "chinese": "n. 四月"
+  },
+  {
+    "id": 13,
+    "english": "May",
+    "chinese": "n. 五月"
+  },
+  {
+    "id": 14,
+    "english": "June",
+    "chinese": "n. 六月"
+  },
+  {
+    "id": 15,
+    "english": "July",
+    "chinese": "n. 七月"
+  },
+  {
+    "id": 16,
+    "english": "August",
+    "chinese": "n. 八月"
+  },
+  {
+    "id": 17,
+    "english": "September",
+    "chinese": "n. 九月"
+  },
+  {
+    "id": 18,
+    "english": "October",
+    "chinese": "n. 十月"
+  },
+  {
+    "id": 19,
+    "english": "November",
+    "chinese": "n. 十一月"
+  },
+  {
+    "id": 20,
+    "english": "December",
+    "chinese": "n. 十二月"
+  },
+  {
+    "id": 21,
+    "english": "first",
+    "chinese": "第一(的)"
+  },
+  {
+    "id": 22,
+    "english": "second",
+    "chinese": "第二(的)"
+  },
+  {
+    "id": 23,
+    "english": "third",
+    "chinese": "第三(的)"
+  },
+  {
+    "id": 24,
+    "english": "fourth",
+    "chinese": "第四(的)"
+  },
+  {
+    "id": 25,
+    "english": "fifth",
+    "chinese": "第五(的)"
+  },
+  {
+    "id": 26,
+    "english": "ninth",
+    "chinese": "第九(的)"
+  },
+  {
+    "id": 27,
+    "english": "twelfth",
+    "chinese": "第十二(的)"
+  },
+  {
+    "id": 28,
+    "english": "twentieth",
+    "chinese": "第二十(的)"
+  },
+  {
+    "id": 29,
+    "english": "twenty-first",
+    "chinese": "第二十一(的)"
+  },
+  {
+    "id": 30,
+    "english": "thirty-third",
+    "chinese": "第三十三(的)"
+  },
+  {
+    "id": 31,
+    "english": "New Year's Eve",
+    "chinese": "n. 元旦前夕"
+  },
+  {
+    "id": 32,
+    "english": "Moon Festival",
+    "chinese": "n. 中秋節"
+  },
+  {
+    "id": 33,
+    "english": "Lantern Festival",
+    "chinese": "n. 元宵節"
+  },
+  {
+    "id": 34,
+    "english": "Thanksgiving",
+    "chinese": "n. 感恩節"
+  },
+  {
+    "id": 35,
+    "english": "Christmas",
+    "chinese": "n. 聖誕節"
+  },
+  {
+    "id": 36,
+    "english": "Teacher's Day",
+    "chinese": "n. 教師節"
+  },
+  {
+    "id": 37,
+    "english": "Mother's Day",
+    "chinese": "n. 母親節"
+  },
+  {
+    "id": 38,
+    "english": "Father's Day",
+    "chinese": "n. 父親節"
+  },
+  {
+    "id": 39,
+    "english": "nervous",
+    "chinese": "adj. 緊張的"
+  },
+  {
+    "id": 40,
+    "english": "worried",
+    "chinese": "adj. 擔憂的"
+  },
+  {
+    "id": 41,
+    "english": "scared",
+    "chinese": "adj. 害怕的"
+  },
+  {
+    "id": 42,
+    "english": "tired",
+    "chinese": "adj. 疲憊的"
+  },
+  {
+    "id": 43,
+    "english": "busy",
+    "chinese": "adj. 忙碌的"
+  },
+  {
+    "id": 44,
+    "english": "give",
+    "chinese": "v. 給"
+  },
+  {
+    "id": 45,
+    "english": "thankful",
+    "chinese": "adj. 感謝的"
+  },
+  {
+    "id": 46,
+    "english": "cry out",
+    "chinese": "phr. 喊叫"
+  },
+  {
+    "id": 47,
+    "english": "cry",
+    "chinese": "v. 哭泣"
+  },
+  {
+    "id": 48,
+    "english": "animal",
+    "chinese": "n. 動物"
+  },
+  {
+    "id": 49,
+    "english": "think",
+    "chinese": "v. 認為"
+  },
+  {
+    "id": 50,
+    "english": "very nice of you",
+    "chinese": "phr. 你人真好"
+  },
+  {
+    "id": 51,
+    "english": "junior high school",
+    "chinese": "n. 國中"
+  },
+  {
+    "id": 52,
+    "english": "baby",
+    "chinese": "n. 嬰兒；a. 年幼的"
+  },
+  {
+    "id": 53,
+    "english": "house",
+    "chinese": "n. 房子"
+  },
+  {
+    "id": 54,
+    "english": "parents",
+    "chinese": "n. 父母親"
+  },
+  {
+    "id": 55,
+    "english": "living room",
+    "chinese": "n. 客廳"
+  },
+  {
+    "id": 56,
+    "english": "wall",
+    "chinese": "n. 牆壁"
+  },
+  {
+    "id": 57,
+    "english": "purple",
+    "chinese": "n. 紫色；a. 紫色的"
+  },
+  {
+    "id": 58,
+    "english": "favorite",
+    "chinese": "n. 喜愛；a. 最喜愛的"
+  },
+  {
+    "id": 59,
+    "english": "color",
+    "chinese": "n. 顏色"
+  },
+  {
+    "id": 60,
+    "english": "kitchen",
+    "chinese": "n. 廚房"
+  },
+  {
+    "id": 61,
+    "english": "dining room",
+    "chinese": "n. 飯廳"
+  },
+  {
+    "id": 62,
+    "english": "but",
+    "chinese": "conj. 但是"
+  },
+  {
+    "id": 63,
+    "english": "gray",
+    "chinese": "n. 灰色；a. 灰色的"
+  },
+  {
+    "id": 64,
+    "english": "brown",
+    "chinese": "n. 棕色；a. 棕色的"
+  },
+  {
+    "id": 65,
+    "english": "cookie",
+    "chinese": "n. 餅乾"
+  },
+  {
+    "id": 66,
+    "english": "mice",
+    "chinese": "n. 老鼠(複數)"
+  },
+  {
+    "id": 67,
+    "english": "mouse",
+    "chinese": "n. 老鼠"
+  },
+  {
+    "id": 68,
+    "english": "maybe",
+    "chinese": "adv. 可能"
+  },
+  {
+    "id": 69,
+    "english": "sofa",
+    "chinese": "n. 沙發"
+  },
+  {
+    "id": 70,
+    "english": "hungry",
+    "chinese": "a. 餓的"
+  },
+  {
+    "id": 71,
+    "english": "notebook",
+    "chinese": "n. 筆記本"
+  },
+  {
+    "id": 72,
+    "english": "marker",
+    "chinese": "n. 記號筆；彩色筆"
+  },
+  {
+    "id": 73,
+    "english": "brush",
+    "chinese": "n. 毛筆；筆刷"
+  },
+  {
+    "id": 74,
+    "english": "gift",
+    "chinese": "n. 禮物"
+  },
+  {
+    "id": 75,
+    "english": "pencil case",
+    "chinese": "n. 鉛筆盒"
+  },
+  {
+    "id": 76,
+    "english": "bathroom",
+    "chinese": "n. 浴室；廁所"
+  },
+  {
+    "id": 77,
+    "english": "table",
+    "chinese": "n. 桌子"
+  },
+  {
+    "id": 78,
+    "english": "bedroom",
+    "chinese": "n. 臥室"
+  },
+  {
+    "id": 79,
+    "english": "near",
+    "chinese": "prep. 在...附近"
+  },
+  {
+    "id": 80,
+    "english": "between",
+    "chinese": "prep. 在...之間"
+  },
+  {
+    "id": 81,
+    "english": "behind",
+    "chinese": "prep. 在...後面"
+  },
+  {
+    "id": 82,
+    "english": "in front of",
+    "chinese": "prep. 在...前面"
+  },
+  {
+    "id": 83,
+    "english": "special",
+    "chinese": "a. 特別的"
+  },
+  {
+    "id": 84,
+    "english": "inside",
+    "chinese": "prep. 在...裡面"
+  },
+  {
+    "id": 85,
+    "english": "right",
+    "chinese": "adv. 就"
+  },
+  {
+    "id": 86,
+    "english": "each other",
+    "chinese": "pron. 彼此；互相"
+  },
+  {
+    "id": 87,
+    "english": "above",
+    "chinese": "prep. 在...上方；adv. 在上方"
+  },
+  {
+    "id": 88,
+    "english": "enough",
+    "chinese": "a. 足夠的；adv. 足夠地；pron. 足夠"
+  },
+  {
+    "id": 89,
+    "english": "person",
+    "chinese": "n. 人(單數)"
+  },
+  {
+    "id": 90,
+    "english": "people",
+    "chinese": "n. 人們"
+  },
+  {
+    "id": 91,
+    "english": "eraser",
+    "chinese": "n. 橡皮擦"
+  },
+  {
+    "id": 92,
+    "english": "ruler",
+    "chinese": "n. 尺"
+  },
+  {
+    "id": 93,
+    "english": "glue",
+    "chinese": "n. 膠水"
+  },
+  {
+    "id": 94,
+    "english": "item",
+    "chinese": "n. 物品；品項"
+  },
+  {
+    "id": 95,
+    "english": "worker",
+    "chinese": "n. 員工；工作人員"
+  },
+  {
+    "id": 96,
+    "english": "area",
+    "chinese": "n. 地區；區域"
+  },
+  {
+    "id": 97,
+    "english": "lovely",
+    "chinese": "a. 可愛的"
+  },
+  {
+    "id": 98,
+    "english": "job",
+    "chinese": "n. 職業"
+  },
+  {
+    "id": 99,
+    "english": "know",
+    "chinese": "v. 知道；認識"
+  },
+  {
+    "id": 100,
+    "english": "band",
+    "chinese": "n. (樂)隊"
+  }
+]
