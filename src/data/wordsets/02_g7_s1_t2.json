@@ -1,0 +1,505 @@
+{
+  "title": "七年級第一學期第二次單字競賽",
+  "words": [
+    {
+      "id": 1,
+      "english": "guy",
+      "chinese": "n. 人；傢伙"
+    },
+    {
+      "id": 2,
+      "english": "magic",
+      "chinese": "adj. 神奇的；n. 魔法"
+    },
+    {
+      "id": 3,
+      "english": "with",
+      "chinese": "prep. 用；和"
+    },
+    {
+      "id": 4,
+      "english": "can",
+      "chinese": "aux. 可以；會"
+    },
+    {
+      "id": 5,
+      "english": "many",
+      "chinese": "adj. 許多的"
+    },
+    {
+      "id": 6,
+      "english": "place",
+      "chinese": "n. 地方"
+    },
+    {
+      "id": 7,
+      "english": "use",
+      "chinese": "v. 使用"
+    },
+    {
+      "id": 8,
+      "english": "sure",
+      "chinese": "adv. 當然；a. 確定的"
+    },
+    {
+      "id": 9,
+      "english": "let's...",
+      "chinese": "phr. 讓我們一起..."
+    },
+    {
+      "id": 10,
+      "english": "careful",
+      "chinese": "adj. 小心的"
+    },
+    {
+      "id": 11,
+      "english": "museum",
+      "chinese": "n. 博物館"
+    },
+    {
+      "id": 12,
+      "english": "Hurry!",
+      "chinese": "phr. 快點！"
+    },
+    {
+      "id": 13,
+      "english": "please",
+      "chinese": "int. 請；拜託"
+    },
+    {
+      "id": 14,
+      "english": "wait",
+      "chinese": "v. 等待"
+    },
+    {
+      "id": 15,
+      "english": "man (複數為 men)",
+      "chinese": "n. 男人"
+    },
+    {
+      "id": 16,
+      "english": "now",
+      "chinese": "adv. 現在"
+    },
+    {
+      "id": 17,
+      "english": "or",
+      "chinese": "conj. 或者"
+    },
+    {
+      "id": 18,
+      "english": "time",
+      "chinese": "n. 次；時間"
+    },
+    {
+      "id": 19,
+      "english": "wake up",
+      "chinese": "phr. 醒來；叫醒"
+    },
+    {
+      "id": 20,
+      "english": "class",
+      "chinese": "n. 課；班級"
+    },
+    {
+      "id": 21,
+      "english": "Oh my!",
+      "chinese": "phr. 天啊！"
+    },
+    {
+      "id": 22,
+      "english": "see",
+      "chinese": "v. 看見"
+    },
+    {
+      "id": 23,
+      "english": "quiet",
+      "chinese": "adj. 安靜的"
+    },
+    {
+      "id": 24,
+      "english": "turn off",
+      "chinese": "phr. 關掉"
+    },
+    {
+      "id": 25,
+      "english": "sign",
+      "chinese": "n. 標誌；v. 簽名"
+    },
+    {
+      "id": 26,
+      "english": "talk",
+      "chinese": "v. 說話"
+    },
+    {
+      "id": 27,
+      "english": "fight",
+      "chinese": "v./n. 吵架；打架"
+    },
+    {
+      "id": 28,
+      "english": "turn",
+      "chinese": "n. (依次輪到的) 機會"
+    },
+    {
+      "id": 29,
+      "english": "follow",
+      "chinese": "v. 遵守；跟隨"
+    },
+    {
+      "id": 30,
+      "english": "rule",
+      "chinese": "n. 規則"
+    },
+    {
+      "id": 31,
+      "english": "safe",
+      "chinese": "adj. 安全的"
+    },
+    {
+      "id": 32,
+      "english": "wash",
+      "chinese": "v. 清洗"
+    },
+    {
+      "id": 33,
+      "english": "hand",
+      "chinese": "n. 手"
+    },
+    {
+      "id": 34,
+      "english": "after class",
+      "chinese": "phr. 下課後"
+    },
+    {
+      "id": 35,
+      "english": "mummy",
+      "chinese": "n. 木乃伊"
+    },
+    {
+      "id": 36,
+      "english": "rock",
+      "chinese": "n. 石塊"
+    },
+    {
+      "id": 37,
+      "english": "dinosaur",
+      "chinese": "n. 恐龍"
+    },
+    {
+      "id": 38,
+      "english": "lab",
+      "chinese": "n. 實驗室"
+    },
+    {
+      "id": 39,
+      "english": "party",
+      "chinese": "n. 派對"
+    },
+    {
+      "id": 40,
+      "english": "bike",
+      "chinese": "n. 腳踏車"
+    },
+    {
+      "id": 41,
+      "english": "take pictures",
+      "chinese": "phr. 拍照"
+    },
+    {
+      "id": 42,
+      "english": "which",
+      "chinese": "pron. 哪一個"
+    },
+    {
+      "id": 43,
+      "english": "music video",
+      "chinese": "n. 音樂影片"
+    },
+    {
+      "id": 44,
+      "english": "band",
+      "chinese": "n. 樂團"
+    },
+    {
+      "id": 45,
+      "english": "take a look",
+      "chinese": "phr. 看一看"
+    },
+    {
+      "id": 46,
+      "english": "all",
+      "chinese": "adj. 所有的"
+    },
+    {
+      "id": 47,
+      "english": "cute",
+      "chinese": "adj. 可愛的"
+    },
+    {
+      "id": 48,
+      "english": "great",
+      "chinese": "adj. 棒的"
+    },
+    {
+      "id": 49,
+      "english": "free",
+      "chinese": "adj. 有空的"
+    },
+    {
+      "id": 50,
+      "english": "weekend",
+      "chinese": "n. 週末"
+    },
+    {
+      "id": 51,
+      "english": "lucky",
+      "chinese": "adj. 幸運的"
+    },
+    {
+      "id": 52,
+      "english": "cafeteria",
+      "chinese": "n. (學校)自助餐"
+    },
+    {
+      "id": 53,
+      "english": "only",
+      "chinese": "只是；唯一的"
+    },
+    {
+      "id": 54,
+      "english": "eat out",
+      "chinese": "phr. 外出用餐"
+    },
+    {
+      "id": 55,
+      "english": "herd",
+      "chinese": "n. 獸群"
+    },
+    {
+      "id": 56,
+      "english": "difficult",
+      "chinese": "adj. 困難的"
+    },
+    {
+      "id": 57,
+      "english": "oxpecker",
+      "chinese": "n. 牛椋鳥"
+    },
+    {
+      "id": 58,
+      "english": "across",
+      "chinese": "prep. 橫越；穿過"
+    },
+    {
+      "id": 59,
+      "english": "playlist",
+      "chinese": "n. 播放清單"
+    },
+    {
+      "id": 60,
+      "english": "refrigerator",
+      "chinese": "n. 冰箱"
+    },
+    {
+      "id": 61,
+      "english": "coat",
+      "chinese": "n. 大衣；毛皮"
+    },
+    {
+      "id": 62,
+      "english": "ice pack",
+      "chinese": "n. 冰袋"
+    },
+    {
+      "id": 63,
+      "english": "luckily",
+      "chinese": "adv. 幸運地"
+    },
+    {
+      "id": 64,
+      "english": "favorite",
+      "chinese": "adj. 最喜愛的"
+    },
+    {
+      "id": 65,
+      "english": "provide",
+      "chinese": "v. 提供"
+    },
+    {
+      "id": 66,
+      "english": "throw",
+      "chinese": "v. 投；擲"
+    },
+    {
+      "id": 67,
+      "english": "over there",
+      "chinese": "在那裡"
+    },
+    {
+      "id": 68,
+      "english": "happen",
+      "chinese": "v. 發生"
+    },
+    {
+      "id": 69,
+      "english": "some",
+      "chinese": "adj./pron. 一些(的)"
+    },
+    {
+      "id": 70,
+      "english": "empty",
+      "chinese": "adj. 空的；無人的"
+    },
+    {
+      "id": 71,
+      "english": "regular",
+      "chinese": "adj. 一般的"
+    },
+    {
+      "id": 72,
+      "english": "social media",
+      "chinese": "n. 社群媒體"
+    },
+    {
+      "id": 73,
+      "english": "elephant",
+      "chinese": "n. 大象"
+    },
+    {
+      "id": 74,
+      "english": "password",
+      "chinese": "n. 密碼"
+    },
+    {
+      "id": 75,
+      "english": "so",
+      "chinese": "adv. 如此地；所以"
+    },
+    {
+      "id": 76,
+      "english": "ankle",
+      "chinese": "n. 腳踝"
+    },
+    {
+      "id": 77,
+      "english": "any",
+      "chinese": "adj./pron. 任何(的)"
+    },
+    {
+      "id": 78,
+      "english": "mistake",
+      "chinese": "n. 錯誤"
+    },
+    {
+      "id": 79,
+      "english": "pretty",
+      "chinese": "adv. 非常；相當"
+    },
+    {
+      "id": 80,
+      "english": "simple",
+      "chinese": "adj. 簡單的；樸素的"
+    },
+    {
+      "id": 81,
+      "english": "back",
+      "chinese": "n. 背；後面"
+    },
+    {
+      "id": 82,
+      "english": "experience",
+      "chinese": "v. 體驗"
+    },
+    {
+      "id": 83,
+      "english": "right",
+      "chinese": "adj. 正確的；右邊；權利"
+    },
+    {
+      "id": 84,
+      "english": "plus",
+      "chinese": "prep. 還有；加上"
+    },
+    {
+      "id": 85,
+      "english": "bear",
+      "chinese": "n. 熊"
+    },
+    {
+      "id": 86,
+      "english": "full",
+      "chinese": "adj. 滿的；飽的"
+    },
+    {
+      "id": 87,
+      "english": "world",
+      "chinese": "n. 世界"
+    },
+    {
+      "id": 88,
+      "english": "share",
+      "chinese": "v. 分享"
+    },
+    {
+      "id": 89,
+      "english": "example",
+      "chinese": "n. 實例"
+    },
+    {
+      "id": 90,
+      "english": "problem",
+      "chinese": "n. 問題"
+    },
+    {
+      "id": 91,
+      "english": "bug",
+      "chinese": "n. 蟲子"
+    },
+    {
+      "id": 92,
+      "english": "million",
+      "chinese": "n. 百萬"
+    },
+    {
+      "id": 93,
+      "english": "building",
+      "chinese": "n. 建築"
+    },
+    {
+      "id": 94,
+      "english": "humid",
+      "chinese": "adj. 潮濕的"
+    },
+    {
+      "id": 95,
+      "english": "healthy",
+      "chinese": "adj. 健康的"
+    },
+    {
+      "id": 96,
+      "english": "number",
+      "chinese": "n. 數字"
+    },
+    {
+      "id": 97,
+      "english": "thanks to",
+      "chinese": "幸虧；由於"
+    },
+    {
+      "id": 98,
+      "english": "agree",
+      "chinese": "v. 同意"
+    },
+    {
+      "id": 99,
+      "english": "clean up",
+      "chinese": "清理；打掃"
+    },
+    {
+      "id": 100,
+      "english": "gym",
+      "chinese": "n. 體育(課)"
+    }
+  ]
+}

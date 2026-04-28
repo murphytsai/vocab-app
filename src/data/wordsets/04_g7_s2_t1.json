@@ -1,0 +1,505 @@
+{
+  "title": "七年級第二學期第一次單字競賽",
+  "words": [
+    {
+      "id": 1,
+      "english": "like",
+      "chinese": "v. 喜歡；像"
+    },
+    {
+      "id": 2,
+      "english": "practice",
+      "chinese": "v. 練習"
+    },
+    {
+      "id": 3,
+      "english": "know",
+      "chinese": "v. 知道"
+    },
+    {
+      "id": 4,
+      "english": "centimeter",
+      "chinese": "n. 公分"
+    },
+    {
+      "id": 5,
+      "english": "agree",
+      "chinese": "v. 同意"
+    },
+    {
+      "id": 6,
+      "english": "different",
+      "chinese": "adj. 不同的"
+    },
+    {
+      "id": 7,
+      "english": "into",
+      "chinese": "prep. 進入"
+    },
+    {
+      "id": 8,
+      "english": "often",
+      "chinese": "adv. 常常"
+    },
+    {
+      "id": 9,
+      "english": "sometimes",
+      "chinese": "adv. 有時候"
+    },
+    {
+      "id": 10,
+      "english": "even",
+      "chinese": "adv. 甚至"
+    },
+    {
+      "id": 11,
+      "english": "hour",
+      "chinese": "n. 小時"
+    },
+    {
+      "id": 12,
+      "english": "minute",
+      "chinese": "n. 分鐘"
+    },
+    {
+      "id": 13,
+      "english": "question",
+      "chinese": "n. 問題"
+    },
+    {
+      "id": 14,
+      "english": "answer",
+      "chinese": "n./v. 答案；回答"
+    },
+    {
+      "id": 15,
+      "english": "life",
+      "chinese": "n. 生活；生命"
+    },
+    {
+      "id": 16,
+      "english": "experience",
+      "chinese": "v. 體驗"
+    },
+    {
+      "id": 17,
+      "english": "computer",
+      "chinese": "n. 電腦"
+    },
+    {
+      "id": 18,
+      "english": "exercise",
+      "chinese": "n./v. 運動"
+    },
+    {
+      "id": 19,
+      "english": "grow",
+      "chinese": "v. 成長"
+    },
+    {
+      "id": 20,
+      "english": "older",
+      "chinese": "adj. 更年長的"
+    },
+    {
+      "id": 21,
+      "english": "taller",
+      "chinese": "adj. 更高的"
+    },
+    {
+      "id": 22,
+      "english": "weight",
+      "chinese": "n. 體重"
+    },
+    {
+      "id": 23,
+      "english": "chubby",
+      "chinese": "adj. 圓胖的"
+    },
+    {
+      "id": 24,
+      "english": "appear",
+      "chinese": "v. 出現"
+    },
+    {
+      "id": 25,
+      "english": "arrange",
+      "chinese": "v. 安排"
+    },
+    {
+      "id": 26,
+      "english": "object",
+      "chinese": "n. 物品"
+    },
+    {
+      "id": 27,
+      "english": "page",
+      "chinese": "n. 頁面"
+    },
+    {
+      "id": 28,
+      "english": "link",
+      "chinese": "n. 連結"
+    },
+    {
+      "id": 29,
+      "english": "matter",
+      "chinese": "n. 問題；事情"
+    },
+    {
+      "id": 30,
+      "english": "simple",
+      "chinese": "adj. 簡單的"
+    },
+    {
+      "id": 31,
+      "english": "repair",
+      "chinese": "v. 修理"
+    },
+    {
+      "id": 32,
+      "english": "toolbox",
+      "chinese": "n. 工具箱"
+    },
+    {
+      "id": 33,
+      "english": "faucet",
+      "chinese": "n. 水龍頭"
+    },
+    {
+      "id": 34,
+      "english": "drip",
+      "chinese": "n./v. 滴下"
+    },
+    {
+      "id": 35,
+      "english": "fix",
+      "chinese": "v. 修理"
+    },
+    {
+      "id": 36,
+      "english": "save",
+      "chinese": "v. 節省"
+    },
+    {
+      "id": 37,
+      "english": "wrench",
+      "chinese": "n. 扳手"
+    },
+    {
+      "id": 38,
+      "english": "screwdriver",
+      "chinese": "n. 螺絲起子"
+    },
+    {
+      "id": 39,
+      "english": "drill",
+      "chinese": "n. 電鑽"
+    },
+    {
+      "id": 40,
+      "english": "hole",
+      "chinese": "n. 洞"
+    },
+    {
+      "id": 41,
+      "english": "board",
+      "chinese": "n. 木板"
+    },
+    {
+      "id": 42,
+      "english": "stronger",
+      "chinese": "adj. 更強壯的"
+    },
+    {
+      "id": 43,
+      "english": "pilgrim",
+      "chinese": "n. 朝聖者"
+    },
+    {
+      "id": 44,
+      "english": "passport",
+      "chinese": "n. 護照"
+    },
+    {
+      "id": 45,
+      "english": "arrow",
+      "chinese": "n. 箭頭"
+    },
+    {
+      "id": 46,
+      "english": "journey",
+      "chinese": "n. 旅程"
+    },
+    {
+      "id": 47,
+      "english": "shelf",
+      "chinese": "n. 架子"
+    },
+    {
+      "id": 48,
+      "english": "dresser",
+      "chinese": "n. 衣櫃"
+    },
+    {
+      "id": 49,
+      "english": "position",
+      "chinese": "n. 位置"
+    },
+    {
+      "id": 50,
+      "english": "hammer",
+      "chinese": "n. 鐵鎚"
+    },
+    {
+      "id": 51,
+      "english": "anyway",
+      "chinese": "adv. 無論如何"
+    },
+    {
+      "id": 52,
+      "english": "ladder",
+      "chinese": "n. 梯子"
+    },
+    {
+      "id": 53,
+      "english": "level",
+      "chinese": "n. 水平；水平儀"
+    },
+    {
+      "id": 54,
+      "english": "tool",
+      "chinese": "n. 工具"
+    },
+    {
+      "id": 55,
+      "english": "use",
+      "chinese": "v. 使用"
+    },
+    {
+      "id": 56,
+      "english": "mark",
+      "chinese": "v. 標記"
+    },
+    {
+      "id": 57,
+      "english": "measure",
+      "chinese": "v. 測量"
+    },
+    {
+      "id": 58,
+      "english": "owl",
+      "chinese": "n. 貓頭鷹"
+    },
+    {
+      "id": 59,
+      "english": "heavy",
+      "chinese": "adj. 重的"
+    },
+    {
+      "id": 60,
+      "english": "look",
+      "chinese": "v. 看起來"
+    },
+    {
+      "id": 61,
+      "english": "person",
+      "chinese": "n. 人"
+    },
+    {
+      "id": 62,
+      "english": "website",
+      "chinese": "n. 網站"
+    },
+    {
+      "id": 63,
+      "english": "check",
+      "chinese": "v. 檢查"
+    },
+    {
+      "id": 64,
+      "english": "start",
+      "chinese": "v. 開始"
+    },
+    {
+      "id": 65,
+      "english": "find",
+      "chinese": "v. 找到"
+    },
+    {
+      "id": 66,
+      "english": "recover",
+      "chinese": "v. 恢復"
+    },
+    {
+      "id": 67,
+      "english": "put one's all",
+      "chinese": "盡全力"
+    },
+    {
+      "id": 68,
+      "english": "make up for",
+      "chinese": "彌補"
+    },
+    {
+      "id": 69,
+      "english": "another",
+      "chinese": "adj. 另外的"
+    },
+    {
+      "id": 70,
+      "english": "have...in common",
+      "chinese": "有共同之處"
+    },
+    {
+      "id": 71,
+      "english": "breakfast",
+      "chinese": "n. 早餐"
+    },
+    {
+      "id": 72,
+      "english": "make",
+      "chinese": "v. 使...成為"
+    },
+    {
+      "id": 73,
+      "english": "travel",
+      "chinese": "v. 旅行"
+    },
+    {
+      "id": 74,
+      "english": "which",
+      "chinese": "pron. 哪一個"
+    },
+    {
+      "id": 75,
+      "english": "true",
+      "chinese": "adj. 真實的"
+    },
+    {
+      "id": 76,
+      "english": "best",
+      "chinese": "adj. 最好的"
+    },
+    {
+      "id": 77,
+      "english": "title",
+      "chinese": "n. 標題"
+    },
+    {
+      "id": 78,
+      "english": "pick up",
+      "chinese": "接(人)"
+    },
+    {
+      "id": 79,
+      "english": "apartment",
+      "chinese": "n. 公寓"
+    },
+    {
+      "id": 80,
+      "english": "tonight",
+      "chinese": "adv. 今晚"
+    },
+    {
+      "id": 81,
+      "english": "report",
+      "chinese": "n./v. 報告"
+    },
+    {
+      "id": 82,
+      "english": "route",
+      "chinese": "n. 路線"
+    },
+    {
+      "id": 83,
+      "english": "guide",
+      "chinese": "v. 指引、帶領"
+    },
+    {
+      "id": 84,
+      "english": "arrive",
+      "chinese": "v. 到達"
+    },
+    {
+      "id": 85,
+      "english": "finish",
+      "chinese": "v. 完成"
+    },
+    {
+      "id": 86,
+      "english": "continue",
+      "chinese": "v. 繼續"
+    },
+    {
+      "id": 87,
+      "english": "become",
+      "chinese": "v. 變成"
+    },
+    {
+      "id": 88,
+      "english": "design",
+      "chinese": "v. 設計"
+    },
+    {
+      "id": 89,
+      "english": "button",
+      "chinese": "n. 按鈕"
+    },
+    {
+      "id": 90,
+      "english": "click",
+      "chinese": "v. 點擊"
+    },
+    {
+      "id": 91,
+      "english": "gentleman",
+      "chinese": "n. 紳士"
+    },
+    {
+      "id": 92,
+      "english": "saw",
+      "chinese": "n. 鋸子"
+    },
+    {
+      "id": 93,
+      "english": "pleased",
+      "chinese": "adj. 滿意的"
+    },
+    {
+      "id": 94,
+      "english": "purpose",
+      "chinese": "n. 目的"
+    },
+    {
+      "id": 95,
+      "english": "ancient",
+      "chinese": "adj. 古代的"
+    },
+    {
+      "id": 96,
+      "english": "stamp",
+      "chinese": "n. 戳章"
+    },
+    {
+      "id": 97,
+      "english": "three-pointer",
+      "chinese": "n. 三分球"
+    },
+    {
+      "id": 98,
+      "english": "come across",
+      "chinese": "偶然遇見"
+    },
+    {
+      "id": 99,
+      "english": "hurt",
+      "chinese": "v. 傷害；使受傷"
+    },
+    {
+      "id": 100,
+      "english": "nail",
+      "chinese": "n. 釘子"
+    }
+  ]
+}

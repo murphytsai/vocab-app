@@ -1,0 +1,505 @@
+{
+  "title": "七年級第二學期第二次單字競賽",
+  "words": [
+    {
+      "id": 1,
+      "english": "painting",
+      "chinese": "n. 畫作"
+    },
+    {
+      "id": 2,
+      "english": "flower",
+      "chinese": "n. 花"
+    },
+    {
+      "id": 3,
+      "english": "which",
+      "chinese": "pron. 哪一個"
+    },
+    {
+      "id": 4,
+      "english": "thirsty",
+      "chinese": "adj. 口渴的"
+    },
+    {
+      "id": 5,
+      "english": "coffee",
+      "chinese": "n. 咖啡"
+    },
+    {
+      "id": 6,
+      "english": "shop",
+      "chinese": "n. 商店"
+    },
+    {
+      "id": 7,
+      "english": "later",
+      "chinese": "adv. 稍後；晚點"
+    },
+    {
+      "id": 8,
+      "english": "Of course.",
+      "chinese": "當然"
+    },
+    {
+      "id": 9,
+      "english": "clerk",
+      "chinese": "n. 店員"
+    },
+    {
+      "id": 10,
+      "english": "may",
+      "chinese": "aux. 可以；可能"
+    },
+    {
+      "id": 11,
+      "english": "juice",
+      "chinese": "n. 果汁"
+    },
+    {
+      "id": 12,
+      "english": "want",
+      "chinese": "v. 想要"
+    },
+    {
+      "id": 13,
+      "english": "anything",
+      "chinese": "pron. 任何事物"
+    },
+    {
+      "id": 14,
+      "english": "else",
+      "chinese": "adv. 其他"
+    },
+    {
+      "id": 15,
+      "english": "treat",
+      "chinese": "n. v. 請客；款待"
+    },
+    {
+      "id": 16,
+      "english": "sweet",
+      "chinese": "adj. 甜美的；甜的"
+    },
+    {
+      "id": 17,
+      "english": "chocolate",
+      "chinese": "n. 巧克力"
+    },
+    {
+      "id": 18,
+      "english": "dollar",
+      "chinese": "n. 元"
+    },
+    {
+      "id": 19,
+      "english": "for here",
+      "chinese": "內用"
+    },
+    {
+      "id": 20,
+      "english": "to go",
+      "chinese": "外帶"
+    },
+    {
+      "id": 21,
+      "english": "Here you are.",
+      "chinese": "給你=Here you go."
+    },
+    {
+      "id": 22,
+      "english": "bright",
+      "chinese": "adj. 鮮豔的；明亮的"
+    },
+    {
+      "id": 23,
+      "english": "art",
+      "chinese": "n. 美術；藝術"
+    },
+    {
+      "id": 24,
+      "english": "milk",
+      "chinese": "n. 牛奶"
+    },
+    {
+      "id": 25,
+      "english": "hamburger",
+      "chinese": "n. 漢堡 =burger"
+    },
+    {
+      "id": 26,
+      "english": "chicken rice",
+      "chinese": "n. 雞肉飯"
+    },
+    {
+      "id": 27,
+      "english": "tea",
+      "chinese": "n. 茶"
+    },
+    {
+      "id": 28,
+      "english": "ice cream",
+      "chinese": "n. 冰淇淋"
+    },
+    {
+      "id": 29,
+      "english": "soup",
+      "chinese": "n. 湯"
+    },
+    {
+      "id": 30,
+      "english": "sandwich",
+      "chinese": "n. 三明治"
+    },
+    {
+      "id": 31,
+      "english": "work",
+      "chinese": "n. 作品"
+    },
+    {
+      "id": 32,
+      "english": "show",
+      "chinese": "v. 表現；秀出"
+    },
+    {
+      "id": 33,
+      "english": "part",
+      "chinese": "n. 部分"
+    },
+    {
+      "id": 34,
+      "english": "sky",
+      "chinese": "n. 天空"
+    },
+    {
+      "id": 35,
+      "english": "street",
+      "chinese": "n. 街道"
+    },
+    {
+      "id": 36,
+      "english": "nearby",
+      "chinese": "adv. 附近"
+    },
+    {
+      "id": 37,
+      "english": "create",
+      "chinese": "v. 創造"
+    },
+    {
+      "id": 38,
+      "english": "balance",
+      "chinese": "n. 平衡"
+    },
+    {
+      "id": 39,
+      "english": "why",
+      "chinese": "adv. 為什麼"
+    },
+    {
+      "id": 40,
+      "english": "wear",
+      "chinese": "v. 戴；穿"
+    },
+    {
+      "id": 41,
+      "english": "mask",
+      "chinese": "n. 口罩；面具"
+    },
+    {
+      "id": 42,
+      "english": "because",
+      "chinese": "conj. 因為"
+    },
+    {
+      "id": 43,
+      "english": "sick",
+      "chinese": "adj. 生病的"
+    },
+    {
+      "id": 44,
+      "english": "glass",
+      "chinese": "n. 玻璃杯；玻璃"
+    },
+    {
+      "id": 45,
+      "english": "flour",
+      "chinese": "n. 麵粉"
+    },
+    {
+      "id": 46,
+      "english": "need",
+      "chinese": "v. 需要；需求"
+    },
+    {
+      "id": 47,
+      "english": "still",
+      "chinese": "adv. 仍然"
+    },
+    {
+      "id": 48,
+      "english": "thing",
+      "chinese": "n. 東西；事情"
+    },
+    {
+      "id": 49,
+      "english": "a little",
+      "chinese": "adj.;adv 一點點"
+    },
+    {
+      "id": 50,
+      "english": "salt",
+      "chinese": "n. 鹽"
+    },
+    {
+      "id": 51,
+      "english": "something",
+      "chinese": "pron. 某物；某事"
+    },
+    {
+      "id": 52,
+      "english": "sugar",
+      "chinese": "n. 糖"
+    },
+    {
+      "id": 53,
+      "english": "get",
+      "chinese": "v. 取得"
+    },
+    {
+      "id": 54,
+      "english": "all right",
+      "chinese": "好的；好吧"
+    },
+    {
+      "id": 55,
+      "english": "so",
+      "chinese": "conj. 所以"
+    },
+    {
+      "id": 56,
+      "english": "back off",
+      "chinese": "退後；走開"
+    },
+    {
+      "id": 57,
+      "english": "meal",
+      "chinese": "n. 餐"
+    },
+    {
+      "id": 58,
+      "english": "bottle",
+      "chinese": "n. 瓶子"
+    },
+    {
+      "id": 59,
+      "english": "candy",
+      "chinese": "n. 糖果"
+    },
+    {
+      "id": 60,
+      "english": "popcorn",
+      "chinese": "n. 爆米花"
+    },
+    {
+      "id": 61,
+      "english": "bowl",
+      "chinese": "n. 碗"
+    },
+    {
+      "id": 62,
+      "english": "fruit salad",
+      "chinese": "n. 水果沙拉"
+    },
+    {
+      "id": 63,
+      "english": "pizza",
+      "chinese": "n. 披薩"
+    },
+    {
+      "id": 64,
+      "english": "milk shake",
+      "chinese": "n. 奶昔=milkshake"
+    },
+    {
+      "id": 65,
+      "english": "can",
+      "chinese": "n. 罐子"
+    },
+    {
+      "id": 66,
+      "english": "toast",
+      "chinese": "n. v. 烤吐司；烘烤"
+    },
+    {
+      "id": 67,
+      "english": "bread",
+      "chinese": "n. 麵包"
+    },
+    {
+      "id": 68,
+      "english": "yummy",
+      "chinese": "adj. 好吃的"
+    },
+    {
+      "id": 69,
+      "english": "easy",
+      "chinese": "adj. 容易的"
+    },
+    {
+      "id": 70,
+      "english": "snack",
+      "chinese": "n. 點心"
+    },
+    {
+      "id": 71,
+      "english": "kid",
+      "chinese": "n. 小孩"
+    },
+    {
+      "id": 72,
+      "english": "cheese",
+      "chinese": "n. 起司；乳酪"
+    },
+    {
+      "id": 73,
+      "english": "plate",
+      "chinese": "n. 盤子"
+    },
+    {
+      "id": 74,
+      "english": "last",
+      "chinese": "adj.;adv 最後的"
+    },
+    {
+      "id": 75,
+      "english": "enjoy",
+      "chinese": "v. 享受；喜愛"
+    },
+    {
+      "id": 76,
+      "english": "turn into",
+      "chinese": "使變成"
+    },
+    {
+      "id": 77,
+      "english": "each",
+      "chinese": "adj;pron. 每一個"
+    },
+    {
+      "id": 78,
+      "english": "tub",
+      "chinese": "n. 桶"
+    },
+    {
+      "id": 79,
+      "english": "slice",
+      "chinese": "n. 片"
+    },
+    {
+      "id": 80,
+      "english": "spread",
+      "chinese": "n. 抹醬"
+    },
+    {
+      "id": 81,
+      "english": "mix",
+      "chinese": "v. 混合；拌和"
+    },
+    {
+      "id": 82,
+      "english": "taste",
+      "chinese": "n. 味道"
+    },
+    {
+      "id": 83,
+      "english": "judge",
+      "chinese": "v. 評論；判斷"
+    },
+    {
+      "id": 84,
+      "english": "bitter",
+      "chinese": "adj. 苦的"
+    },
+    {
+      "id": 85,
+      "english": "menu",
+      "chinese": "n. 菜單"
+    },
+    {
+      "id": 86,
+      "english": "crab",
+      "chinese": "n. 螃蟹"
+    },
+    {
+      "id": 87,
+      "english": "value",
+      "chinese": "n. 價值；重要性"
+    },
+    {
+      "id": 88,
+      "english": "plastic",
+      "chinese": "adj. 塑膠的"
+    },
+    {
+      "id": 89,
+      "english": "ban",
+      "chinese": "v. 禁止"
+    },
+    {
+      "id": 90,
+      "english": "reusable",
+      "chinese": "adj. 可重複使用的"
+    },
+    {
+      "id": 91,
+      "english": "select",
+      "chinese": "v. 挑選；選擇"
+    },
+    {
+      "id": 92,
+      "english": "notice",
+      "chinese": "v. 注意到"
+    },
+    {
+      "id": 93,
+      "english": "pause",
+      "chinese": "v. 暫停；中斷"
+    },
+    {
+      "id": 94,
+      "english": "evil",
+      "chinese": "adj. 邪惡的"
+    },
+    {
+      "id": 95,
+      "english": "spirit",
+      "chinese": "n. 幽靈；鬼魂"
+    },
+    {
+      "id": 96,
+      "english": "cancel",
+      "chinese": "v. 取消；終止"
+    },
+    {
+      "id": 97,
+      "english": "social",
+      "chinese": "adj. 群居的；社交的"
+    },
+    {
+      "id": 98,
+      "english": "question",
+      "chinese": "v. 質疑"
+    },
+    {
+      "id": 99,
+      "english": "courage",
+      "chinese": "n. 勇氣"
+    },
+    {
+      "id": 100,
+      "english": "grow",
+      "chinese": "v. 成長"
+    }
+  ]
+}

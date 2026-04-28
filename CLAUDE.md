@@ -12,7 +12,8 @@ Vocabulary learning app for junior high school students. Scan vocabulary PDFs â†
 ## Structure
 ```
 src/
-  data/words.json          # default word set (100 words)
+  data/wordsets/           # canonical word sets, auto-loaded via import.meta.glob
+    NN_<slug>.json         # each file: { title: string, words: [{id, english, chinese}, ...] }
   components/
     WordList.jsx           # searchable word grid
     Flashcard.jsx          # flip card quiz (ENâ†”ZH)
