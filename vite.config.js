@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react';
 // must match in production. Local dev (vite / vite preview) keeps "/".
 export default defineConfig(({ command }) => ({
   plugins: [react()],
-  base: command === 'build' ? '/WordBank/' : '/',
+  base: command === 'build' ? '/vocab-app/' : '/',
 }));
