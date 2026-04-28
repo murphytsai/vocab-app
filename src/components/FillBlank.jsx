@@ -207,8 +207,8 @@ export default function FillBlank({ words, setName }) {
   const chnW = is1 ? '26mm' : '32mm';
   const numW = is1 ? '6mm' : '8mm';
 
-  const thStyle = { ...thS, fontSize, padding: pad };
-  const tdStyle = { ...tdS, fontSize, padding: pad, lineHeight: lh };
+  const thStyle = { ...thS, fontSize, padding: pad, textAlign: 'left' };
+  const tdStyle = { ...tdS, fontSize, padding: pad, lineHeight: lh, textAlign: 'left' };
 
   const renderPreviewTable = (list) => (
     <table style={{ width: '100%', borderCollapse: 'collapse' }}>
