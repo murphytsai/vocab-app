@@ -29,7 +29,7 @@ ${baseCSS}
 .info-row { font-size: 10pt; margin-bottom: 2mm; }
 .columns { display: flex; gap: 2mm; }
 .columns .col { flex: 1; }
-th, td { font-size: 9pt; line-height: 1.25; padding: 0.6mm 2mm; }
+th, td { font-size: 9pt; line-height: 1.25; padding: 0.4mm 2mm; }
 .col-chn { width: 26mm; }
 `;
 
@@ -202,7 +202,7 @@ export default function FillBlank({ words, setName }) {
   /* layout-specific sizes */
   const is1 = layout === 'one';
   const fontSize = is1 ? '9pt' : '13pt';
-  const pad = is1 ? '0.6mm 2mm' : '1.6mm 3mm';
+  const pad = is1 ? '0.4mm 2mm' : '1.6mm 3mm';
   const lh = is1 ? 1.25 : 1.3;
   const chnW = is1 ? '26mm' : '32mm';
   const numW = is1 ? '6mm' : '8mm';
