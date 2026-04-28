@@ -5,3 +5,5 @@ dist/
 .vibe.pgid
 .claude/
 *.traineddata
+# Original scanned vocab sheets contain school name and student names — keep local only
+scanned/
