@@ -135,6 +135,22 @@ export default function Upload({ onAdd }) {
     }
   };
 
+  /* ========== Download as JSON file (永久存檔) ========== */
+  const handleDownloadJSON = () => {
+    if (!extracted || extracted.length === 0 || !setName.trim()) return;
+    const payload = { title: setName.trim(), words: extracted };
+    const slug = slugify(setName.trim());
+    const blob = new Blob([JSON.stringify(payload, null, 2) + '\n'], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${slug}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  };
+
   const handleDrop = (e) => {
     e.preventDefault();
     e.currentTarget.classList.remove('dragover');
@@ -334,7 +350,16 @@ export default function Upload({ onAdd }) {
             </table>
           </div>
 
-          <button className="btn-confirm" onClick={handleConfirm}>加入單字庫</button>
+          <div style={{ background: '#f0f8ff', border: '1px solid #b8daff', borderRadius: 8, padding: 12, marginBottom: 12, fontSize: 13, lineHeight: 1.7 }}>
+            <strong>兩種儲存方式：</strong>
+            <ul style={{ paddingLeft: 20, margin: '4px 0 0' }}>
+              <li><strong>下載 JSON 檔（推薦）</strong>：永久保存。下載後將檔案放到 <code>src/data/wordsets/</code>，重新整理就會自動出現，跨瀏覽器/裝置都看得到。</li>
+              <li><strong>加入草稿</strong>：暫存到瀏覽器 localStorage，僅此瀏覽器可見。清快取會消失。</li>
+            </ul>
+          </div>
+
+          <button className="btn-confirm" onClick={handleDownloadJSON} style={{ background: '#27ae60' }}>📥 下載 JSON 檔</button>
+          <button className="btn-confirm" onClick={handleConfirm}>📝 加入草稿</button>
           <button className="btn-cancel" onClick={reset}>取消</button>
         </div>
       )}
@@ -351,6 +376,13 @@ export default function Upload({ onAdd }) {
       </div>
     </div>
   );
+}
+
+/* ---- slugify for filename ---- */
+function slugify(s) {
+  const ts = Date.now().toString(36);
+  const ascii = s.normalize('NFKD').replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '_').toLowerCase();
+  return ascii ? `${ascii}_${ts}` : `wordset_${ts}`;
 }
 
 /* ---- shared table styles ---- */
