@@ -3,6 +3,7 @@ import words_2_1 from './data/words.json';
 import words_1_1 from './data/words_1-1.json';
 import words_1_2 from './data/words_1-2.json';
 import words_1_3 from './data/words_1-3.json';
+import words_2_2 from './data/words_2-2.json';
 import WordList from './components/WordList';
 import Flashcard from './components/Flashcard';
 import FillBlank from './components/FillBlank';
@@ -15,6 +16,7 @@ const DEFAULT_SETS = [
   { name: '七年級第一學期第二次單字競賽', words: words_1_2 },
   { name: '七年級第一學期第三次單字競賽', words: words_1_3 },
   { name: '七年級第二學期第一次單字競賽', words: words_2_1 },
+  { name: '七年級第二學期第二次單字競賽', words: words_2_2 },
 ];
 
 function loadWordSets() {
