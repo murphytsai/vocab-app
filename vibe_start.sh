@@ -1,12 +1,21 @@
 #!/bin/bash
+# vibe-template-version: 1
+set -eo pipefail
 
 # Smart Port Discovery
-find_port() {
-  PORT=$1
-  while lsof -Pi :$PORT -sTCP:LISTEN -t >/dev/null 2>&1; do
-    PORT=$((PORT + 1))
+find_available_port() {
+  local BASE=$1
+  local PORT=$BASE
+  local MAX_TRIES=20
+  for i in $(seq 1 $MAX_TRIES); do
+    if ! lsof -Pi :$PORT -sTCP:LISTEN -t >/dev/null 2>&1; then
+      echo $PORT
+      return 0
+    fi
+    PORT=$((PORT + 1 + RANDOM % 3))
   done
-  echo $PORT
+  echo "find_available_port: no free port in range $BASE-$PORT after $MAX_TRIES tries" >&2
+  return 1
 }
 
 # Register process group ID immediately — crash-safe cleanup anchor
@@ -17,7 +26,7 @@ if [ -n "$OLD_PGID" ]; then
 fi
 rm -f .vibe_ports
 
-FRONTEND_PORT=$(find_port 5173)
+FRONTEND_PORT=$(find_available_port 5173)
 echo "frontend:$FRONTEND_PORT" > .vibe_ports
 echo "🚀 Starting WordBank on port $FRONTEND_PORT..."
 

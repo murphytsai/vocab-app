@@ -1,4 +1,6 @@
 #!/bin/bash
+# vibe-template-version: 1
+set -eo pipefail
 echo "🛑 Stopping services..."
 
 PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -6,7 +8,11 @@ PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
 # Primary: kill the tracked process group
 if [ -f .vibe.pgid ]; then
   PGID=$(cat .vibe.pgid)
-  kill -9 -- -$PGID 2>/dev/null && echo "✅ Killed process group (PGID: $PGID)" || true
+  if [[ "$PGID" =~ ^[1-9][0-9]+$ ]]; then
+    kill -9 -- -$PGID 2>/dev/null && echo "✅ Killed process group (PGID: $PGID)" || true
+  else
+    echo "⚠️  .vibe.pgid contains invalid value: '$PGID' — skipping"
+  fi
   rm .vibe.pgid
 else
   echo "⚠️  No .vibe.pgid file — falling through to leak scan"
