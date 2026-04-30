@@ -1,6 +1,5 @@
 #!/bin/bash
 # vibe-template-version: 1
-set -eo pipefail
 echo "🛑 Stopping services..."
 
 PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
