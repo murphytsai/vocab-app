@@ -1,0 +1,505 @@
+{
+  "title": "七年級第二學期第三次單字競賽",
+  "words": [
+    {
+      "id": 1,
+      "english": "beach",
+      "chinese": "n. 沙灘"
+    },
+    {
+      "id": 2,
+      "english": "trash",
+      "chinese": "n. 垃圾"
+    },
+    {
+      "id": 3,
+      "english": "visit",
+      "chinese": "v.; n. 拜訪;參觀"
+    },
+    {
+      "id": 4,
+      "english": "island",
+      "chinese": "n. 島嶼"
+    },
+    {
+      "id": 5,
+      "english": "happen",
+      "chinese": "v. 發生"
+    },
+    {
+      "id": 6,
+      "english": "dead",
+      "chinese": "adj. 死亡的"
+    },
+    {
+      "id": 7,
+      "english": "rainforest = rain forest",
+      "chinese": "n. 雨林"
+    },
+    {
+      "id": 8,
+      "english": "busy",
+      "chinese": "adj. 忙碌的"
+    },
+    {
+      "id": 9,
+      "english": "hill",
+      "chinese": "n. 山丘"
+    },
+    {
+      "id": 10,
+      "english": "mountain",
+      "chinese": "n. 山"
+    },
+    {
+      "id": 11,
+      "english": "camp",
+      "chinese": "n.; v. 露營;紮營"
+    },
+    {
+      "id": 12,
+      "english": "climb",
+      "chinese": "v. 爬(山)"
+    },
+    {
+      "id": 13,
+      "english": "plant",
+      "chinese": "v.; n. 種植;植物"
+    },
+    {
+      "id": 14,
+      "english": "hike",
+      "chinese": "v.; n. 健行"
+    },
+    {
+      "id": 15,
+      "english": "picnic",
+      "chinese": "v.; n. 野餐"
+    },
+    {
+      "id": 16,
+      "english": "playground",
+      "chinese": "n. 遊樂場;操場"
+    },
+    {
+      "id": 17,
+      "english": "change",
+      "chinese": "v.; n. 改變"
+    },
+    {
+      "id": 18,
+      "english": "burn",
+      "chinese": "v. 燃燒"
+    },
+    {
+      "id": 19,
+      "english": "miss",
+      "chinese": "v. 想念;錯過"
+    },
+    {
+      "id": 20,
+      "english": "little by little",
+      "chinese": "adv. phr. 逐漸地"
+    },
+    {
+      "id": 21,
+      "english": "airport",
+      "chinese": "n. 機場"
+    },
+    {
+      "id": 22,
+      "english": "the sights",
+      "chinese": "n. 風景;名勝"
+    },
+    {
+      "id": 23,
+      "english": "bookstore",
+      "chinese": "n. 書店"
+    },
+    {
+      "id": 24,
+      "english": "buy",
+      "chinese": "v. 買"
+    },
+    {
+      "id": 25,
+      "english": "train",
+      "chinese": "v. 訓練 n. 火車"
+    },
+    {
+      "id": 26,
+      "english": "try",
+      "chinese": "v.; n. 嘗試"
+    },
+    {
+      "id": 27,
+      "english": "the other day",
+      "chinese": "前幾天"
+    },
+    {
+      "id": 28,
+      "english": "department store",
+      "chinese": "n. 百貨公司"
+    },
+    {
+      "id": 29,
+      "english": "restaurant",
+      "chinese": "n. 餐廳"
+    },
+    {
+      "id": 30,
+      "english": "theater",
+      "chinese": "n. 電影院"
+    },
+    {
+      "id": 31,
+      "english": "market",
+      "chinese": "n. 市場"
+    },
+    {
+      "id": 32,
+      "english": "temple",
+      "chinese": "n. 寺廟"
+    },
+    {
+      "id": 33,
+      "english": "famous",
+      "chinese": "adj. 有名的"
+    },
+    {
+      "id": 34,
+      "english": "during",
+      "chinese": "prep. 在…期間"
+    },
+    {
+      "id": 35,
+      "english": "besides",
+      "chinese": "prep.; adv. 除..之外"
+    },
+    {
+      "id": 36,
+      "english": "fall in love",
+      "chinese": "墜入情網"
+    },
+    {
+      "id": 37,
+      "english": "age",
+      "chinese": "n. 年紀"
+    },
+    {
+      "id": 38,
+      "english": "cry",
+      "chinese": "v. 哭泣;喊叫"
+    },
+    {
+      "id": 39,
+      "english": "hide",
+      "chinese": "v. 躲藏"
+    },
+    {
+      "id": 40,
+      "english": "build",
+      "chinese": "v. 建造"
+    },
+    {
+      "id": 41,
+      "english": "trip",
+      "chinese": "n. 旅行;行程"
+    },
+    {
+      "id": 42,
+      "english": "sadly",
+      "chinese": "adv. 令人傷心地"
+    },
+    {
+      "id": 43,
+      "english": "last",
+      "chinese": "v. 持續 adj. 上一個的 adv. 最後"
+    },
+    {
+      "id": 44,
+      "english": "way",
+      "chinese": "n. 方式;距離;路線;道路"
+    },
+    {
+      "id": 45,
+      "english": "fall",
+      "chinese": "v. 落下;跌下;降臨;發生"
+    },
+    {
+      "id": 46,
+      "english": "just",
+      "chinese": "adv. 剛才;就;只"
+    },
+    {
+      "id": 47,
+      "english": "by",
+      "chinese": "prep. 被;由;在..旁邊"
+    },
+    {
+      "id": 48,
+      "english": "then",
+      "chinese": "adv. 那麼;然後;那時候"
+    },
+    {
+      "id": 49,
+      "english": "well known",
+      "chinese": "著名的"
+    },
+    {
+      "id": 50,
+      "english": "forever",
+      "chinese": "adv. 永遠"
+    },
+    {
+      "id": 51,
+      "english": "fair",
+      "chinese": "n. 市集;園遊會"
+    },
+    {
+      "id": 52,
+      "english": "rest",
+      "chinese": "v. 休息"
+    },
+    {
+      "id": 53,
+      "english": "fine",
+      "chinese": "adj. 可接受的"
+    },
+    {
+      "id": 54,
+      "english": "goods",
+      "chinese": "n. 貨物"
+    },
+    {
+      "id": 55,
+      "english": "in a hurry",
+      "chinese": "phr. 趕時間"
+    },
+    {
+      "id": 56,
+      "english": "feed",
+      "chinese": "v. 餵食"
+    },
+    {
+      "id": 57,
+      "english": "lose",
+      "chinese": "v. 遺失;失去"
+    },
+    {
+      "id": 58,
+      "english": "prepare",
+      "chinese": "v. 準備"
+    },
+    {
+      "id": 59,
+      "english": "limit",
+      "chinese": "v. 限制"
+    },
+    {
+      "id": 60,
+      "english": "platform",
+      "chinese": "n. 講台;平台"
+    },
+    {
+      "id": 61,
+      "english": "make sense",
+      "chinese": "合理;有道理"
+    },
+    {
+      "id": 62,
+      "english": "advice",
+      "chinese": "n. 建議"
+    },
+    {
+      "id": 63,
+      "english": "channel",
+      "chinese": "n. 頻道"
+    },
+    {
+      "id": 64,
+      "english": "nervous",
+      "chinese": "adj. 緊張的"
+    },
+    {
+      "id": 65,
+      "english": "offer",
+      "chinese": "v. 提供 n. 優惠"
+    },
+    {
+      "id": 66,
+      "english": "at ease",
+      "chinese": "自在的;放鬆的"
+    },
+    {
+      "id": 67,
+      "english": "guide",
+      "chinese": "n. 指南;手冊"
+    },
+    {
+      "id": 68,
+      "english": "review",
+      "chinese": "v. 評論"
+    },
+    {
+      "id": 69,
+      "english": "tire",
+      "chinese": "n. 輪胎"
+    },
+    {
+      "id": 70,
+      "english": "beyond compare",
+      "chinese": "無與倫比"
+    },
+    {
+      "id": 71,
+      "english": "location",
+      "chinese": "n. 位置;地點"
+    },
+    {
+      "id": 72,
+      "english": "excellent",
+      "chinese": "adj. 優美的;極好的"
+    },
+    {
+      "id": 73,
+      "english": "worse",
+      "chinese": "adj. 更糟的"
+    },
+    {
+      "id": 74,
+      "english": "terrible",
+      "chinese": "adj. 糟糕的;恐怖的"
+    },
+    {
+      "id": 75,
+      "english": "medium",
+      "chinese": "adj. 中間的;中等的"
+    },
+    {
+      "id": 76,
+      "english": "level",
+      "chinese": "n. 樓層"
+    },
+    {
+      "id": 77,
+      "english": "teenager",
+      "chinese": "n. 青少年"
+    },
+    {
+      "id": 78,
+      "english": "artist",
+      "chinese": "n. 藝術家"
+    },
+    {
+      "id": 79,
+      "english": "dentist",
+      "chinese": "n. 牙醫"
+    },
+    {
+      "id": 80,
+      "english": "useful",
+      "chinese": "adj. 實用的"
+    },
+    {
+      "id": 81,
+      "english": "information",
+      "chinese": "n. 資訊"
+    },
+    {
+      "id": 82,
+      "english": "village",
+      "chinese": "n. 村莊"
+    },
+    {
+      "id": 83,
+      "english": "blacksmith",
+      "chinese": "n. 鐵匠"
+    },
+    {
+      "id": 84,
+      "english": "nail",
+      "chinese": "n. 釘子"
+    },
+    {
+      "id": 85,
+      "english": "merchant",
+      "chinese": "n. 商人"
+    },
+    {
+      "id": 86,
+      "english": "fill",
+      "chinese": "v. 充滿"
+    },
+    {
+      "id": 87,
+      "english": "ride away",
+      "chinese": "phr. 騎走"
+    },
+    {
+      "id": 88,
+      "english": "stay on",
+      "chinese": "留在原位"
+    },
+    {
+      "id": 89,
+      "english": "continue",
+      "chinese": "v. 繼續"
+    },
+    {
+      "id": 90,
+      "english": "later",
+      "chinese": "adv. 後來"
+    },
+    {
+      "id": 91,
+      "english": "distance",
+      "chinese": "n. 距離"
+    },
+    {
+      "id": 92,
+      "english": "break",
+      "chinese": "v. 弄斷"
+    },
+    {
+      "id": 93,
+      "english": "unhappy",
+      "chinese": "adj. 不開心的"
+    },
+    {
+      "id": 94,
+      "english": "luck",
+      "chinese": "n. 運氣"
+    },
+    {
+      "id": 95,
+      "english": "stumble",
+      "chinese": "v. 跌跌撞撞的走"
+    },
+    {
+      "id": 96,
+      "english": "host",
+      "chinese": "n. 主持人"
+    },
+    {
+      "id": 97,
+      "english": "boring",
+      "chinese": "adj. 無聊的"
+    },
+    {
+      "id": 98,
+      "english": "experience",
+      "chinese": "v.; n. 經驗"
+    },
+    {
+      "id": 99,
+      "english": "introduce",
+      "chinese": "v. 介紹"
+    },
+    {
+      "id": 100,
+      "english": "live",
+      "chinese": "v. 住 adj. 直播的"
+    }
+  ]
+}
