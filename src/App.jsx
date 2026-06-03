@@ -1,10 +1,14 @@
-import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import React, { useState, useEffect, useCallback, useMemo, lazy, Suspense } from 'react';
 import WordList from './components/WordList';
 import Flashcard from './components/Flashcard';
 import FillBlank from './components/FillBlank';
-import Upload from './components/Upload';
 
 const DRAFTS_KEY = 'wordbank_drafts';
+
+// Import feature is local-only (vite dev). GitHub Pages build hides it
+// and tree-shakes Upload (pdfjs-dist + tesseract.js) out of the bundle.
+const IMPORT_ENABLED = import.meta.env.DEV;
+const Upload = IMPORT_ENABLED ? lazy(() => import('./components/Upload')) : null;
 
 // Auto-load every JSON in src/data/wordsets/ at build time.
 // Each file: { title: string, words: [{id, english, chinese}, ...] }
@@ -77,7 +81,7 @@ function App() {
           ['list', '單字列表'],
           ['flashcard', '閃卡測驗'],
           ['fillblank', '填空練習卷'],
-          ['upload', '匯入單字'],
+          ...(IMPORT_ENABLED ? [['upload', '匯入單字']] : []),
         ].map(([key, label]) => (
           <button key={key} className={tab === key ? 'active' : ''} onClick={() => setTab(key)}>
             {label}
@@ -103,7 +107,11 @@ function App() {
       {tab === 'list' && <WordList words={activeWords} />}
       {tab === 'flashcard' && <Flashcard words={activeWords} />}
       {tab === 'fillblank' && <FillBlank words={activeWords} setName={activeSet?.name} />}
-      {tab === 'upload' && <Upload onAdd={handleAddDraft} />}
+      {tab === 'upload' && IMPORT_ENABLED && (
+        <Suspense fallback={<div style={{ padding: 20 }}>載入中…</div>}>
+          <Upload onAdd={handleAddDraft} />
+        </Suspense>
+      )}
     </div>
   );
 }
