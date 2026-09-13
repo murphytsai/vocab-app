@@ -1,0 +1,255 @@
+{
+  "title": "八年級第一學期第一次單字競賽",
+  "words": [
+    {
+      "id": 1,
+      "english": "summer vacation",
+      "chinese": "n. 暑假"
+    },
+    {
+      "id": 2,
+      "english": "Weather",
+      "chinese": "n. 天氣"
+    },
+    {
+      "id": 3,
+      "english": "Taiwan",
+      "chinese": "n. 臺灣"
+    },
+    {
+      "id": 4,
+      "english": "fun",
+      "chinese": "n.; adj. 樂趣；有趣的"
+    },
+    {
+      "id": 5,
+      "english": "snow",
+      "chinese": "v.; n. 下雪；雪"
+    },
+    {
+      "id": 6,
+      "english": "send",
+      "chinese": "v. 寄；送"
+    },
+    {
+      "id": 7,
+      "english": "postcard",
+      "chinese": "n. 明信片"
+    },
+    {
+      "id": 8,
+      "english": "borrow",
+      "chinese": "v. 借（入）"
+    },
+    {
+      "id": 9,
+      "english": "lend",
+      "chinese": "v. 借（出）"
+    },
+    {
+      "id": 10,
+      "english": "glove",
+      "chinese": "n. 手套"
+    },
+    {
+      "id": 11,
+      "english": "kind",
+      "chinese": "adj.; n. 親切的；種類"
+    },
+    {
+      "id": 12,
+      "english": "lovely",
+      "chinese": "adj. 可愛的；美好的"
+    },
+    {
+      "id": 13,
+      "english": "jacket",
+      "chinese": "n. 夾克"
+    },
+    {
+      "id": 14,
+      "english": "give",
+      "chinese": "v. 給予"
+    },
+    {
+      "id": 15,
+      "english": "hate",
+      "chinese": "v. 討厭"
+    },
+    {
+      "id": 16,
+      "english": "heavy",
+      "chinese": "adj. 厚重的；大量的"
+    },
+    {
+      "id": 17,
+      "english": "season",
+      "chinese": "n. 季節"
+    },
+    {
+      "id": 18,
+      "english": "spring",
+      "chinese": "n. 春天"
+    },
+    {
+      "id": 19,
+      "english": "cloud",
+      "chinese": "n. 雲"
+    },
+    {
+      "id": 20,
+      "english": "sun",
+      "chinese": "n. 太陽"
+    },
+    {
+      "id": 21,
+      "english": "autumn",
+      "chinese": "n. 秋天（=fall）"
+    },
+    {
+      "id": 22,
+      "english": "wind",
+      "chinese": "n. 風"
+    },
+    {
+      "id": 23,
+      "english": "winter",
+      "chinese": "n. 冬天"
+    },
+    {
+      "id": 24,
+      "english": "sunny",
+      "chinese": "adj. 陽光普照"
+    },
+    {
+      "id": 25,
+      "english": "snowy",
+      "chinese": "adj. 下雪的"
+    },
+    {
+      "id": 26,
+      "english": "rainy",
+      "chinese": "adj. 下雨的"
+    },
+    {
+      "id": 27,
+      "english": "cloudy",
+      "chinese": "adj. 多雲的"
+    },
+    {
+      "id": 28,
+      "english": "windy",
+      "chinese": "adj. 風大的"
+    },
+    {
+      "id": 29,
+      "english": "cool",
+      "chinese": "adj. 涼爽的；酷的"
+    },
+    {
+      "id": 30,
+      "english": "speak",
+      "chinese": "v. 講話；說（語言）"
+    },
+    {
+      "id": 31,
+      "english": "mad",
+      "chinese": "adj. 生氣的；瘋狂的"
+    },
+    {
+      "id": 32,
+      "english": "in fact",
+      "chinese": "phr. 事實上"
+    },
+    {
+      "id": 33,
+      "english": "mean",
+      "chinese": "v. 意指"
+    },
+    {
+      "id": 34,
+      "english": "another",
+      "chinese": "adj.; pron. 另一（的）"
+    },
+    {
+      "id": 35,
+      "english": "order",
+      "chinese": "v.; n. 點餐；訂購；順序"
+    },
+    {
+      "id": 36,
+      "english": "strange",
+      "chinese": "adj. 奇怪的；陌生的"
+    },
+    {
+      "id": 37,
+      "english": "soon",
+      "chinese": "adv. 很快地"
+    },
+    {
+      "id": 38,
+      "english": "ROC",
+      "chinese": "n. 中華民國"
+    },
+    {
+      "id": 39,
+      "english": "club",
+      "chinese": "n. 社團"
+    },
+    {
+      "id": 40,
+      "english": "make up one's mind",
+      "chinese": "phr. 下定決心"
+    },
+    {
+      "id": 41,
+      "english": "interesting",
+      "chinese": "adj. 有趣的"
+    },
+    {
+      "id": 42,
+      "english": "science",
+      "chinese": "n. 科學"
+    },
+    {
+      "id": 43,
+      "english": "subject",
+      "chinese": "n. 學科；主題"
+    },
+    {
+      "id": 44,
+      "english": "hear",
+      "chinese": "v. 聽見"
+    },
+    {
+      "id": 45,
+      "english": "same",
+      "chinese": "adj. 相同的"
+    },
+    {
+      "id": 46,
+      "english": "call",
+      "chinese": "v.; n. 打電話；呼叫"
+    },
+    {
+      "id": 47,
+      "english": "tell",
+      "chinese": "v. 告訴；分辨"
+    },
+    {
+      "id": 48,
+      "english": "pull one's leg",
+      "chinese": "phr. 開玩笑"
+    },
+    {
+      "id": 49,
+      "english": "poor",
+      "chinese": "adj. 不佳的；貧窮的"
+    },
+    {
+      "id": 50,
+      "english": "end",
+      "chinese": "n.; v. 結尾；結束"
+    }
+  ]
+}
