@@ -30,7 +30,8 @@ ${baseCSS}
 .columns { display: flex; gap: 2mm; }
 .columns .col { flex: 1; }
 th, td { font-size: 9pt; line-height: 1.25; padding: 0.4mm 2mm; }
-.col-chn { width: 26mm; }
+.col-chn      { width: 26mm; }
+.col-chn-long { width: 26mm; white-space: normal; font-size: 7.5pt; line-height: 1.2; }
 `;
 
 /* ---- 2-page layout: 50 words per page, 2 columns (25 each), more spacious ---- */
@@ -44,8 +45,9 @@ ${baseCSS}
 .info-row { font-size: 11pt; margin-bottom: 3mm; }
 .columns { display: flex; gap: 3mm; }
 .columns .col { flex: 1; }
-th, td { font-size: 11pt; line-height: 1.25; padding: 1mm 3mm; }
-.col-chn { width: 32mm; white-space: nowrap; }
+th, td { font-size: 13pt; line-height: 1.3; padding: 1mm 3mm; }
+.col-chn      { width: 36mm; white-space: nowrap; }
+.col-chn-long { width: 36mm; white-space: normal; font-size: 10pt; line-height: 1.25; }
 .page-break { page-break-before: always; }
 `;
 
@@ -62,7 +64,10 @@ const renderHeader = (setName) => `
   </div>`;
 
 const renderRows = (list) =>
-  list.map(w => `<tr><td class="col-num">${w.id}</td><td class="col-chn">${w.chinese}</td><td></td></tr>`).join('');
+  list.map(w => {
+    const isLong = w.chinese.length > 12;
+    return `<tr><td class="col-num">${w.id}</td><td class="${isLong ? 'col-chn-long' : 'col-chn'}">${w.chinese}</td><td></td></tr>`;
+  }).join('');
 
 function buildOnePageHTML(words, setName, css) {
   const half = Math.ceil(words.length / 2);
@@ -201,10 +206,11 @@ export default function FillBlank({ words, setName }) {
 
   /* layout-specific sizes */
   const is1 = layout === 'one';
-  const fontSize = is1 ? '9pt' : '11pt';
+  const fontSize = is1 ? '9pt' : '13pt';
+  const longFontSize = is1 ? '7.5pt' : '10pt';
   const pad = is1 ? '0.4mm 2mm' : '1mm 3mm';
-  const lh = is1 ? 1.25 : 1.25;
-  const chnW = is1 ? '26mm' : '32mm';
+  const lh = is1 ? 1.25 : 1.3;
+  const chnW = is1 ? '26mm' : '36mm';
   const numW = is1 ? '6mm' : '8mm';
 
   const thStyle = { ...thS, fontSize, padding: pad, textAlign: 'left' };
@@ -220,13 +226,22 @@ export default function FillBlank({ words, setName }) {
         </tr>
       </thead>
       <tbody>
-        {list.map(w => (
-          <tr key={w.id}>
-            <td style={{ ...tdStyle, textAlign: 'center', width: numW }}>{w.id}</td>
-            <td style={{ ...tdStyle, width: chnW, whiteSpace: 'nowrap' }}>{w.chinese}</td>
-            <td style={tdStyle}>&nbsp;</td>
-          </tr>
-        ))}
+        {list.map(w => {
+          const isLong = w.chinese.length > 12;
+          return (
+            <tr key={w.id}>
+              <td style={{ ...tdStyle, textAlign: 'center', width: numW }}>{w.id}</td>
+              <td style={{
+                ...tdStyle,
+                width: chnW,
+                whiteSpace: isLong ? 'normal' : 'nowrap',
+                fontSize: isLong ? longFontSize : fontSize,
+                lineHeight: isLong ? 1.25 : lh,
+              }}>{w.chinese}</td>
+              <td style={tdStyle}>&nbsp;</td>
+            </tr>
+          );
+        })}
       </tbody>
     </table>
   );
