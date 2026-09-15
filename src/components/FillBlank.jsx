@@ -38,13 +38,13 @@ const TWO_PAGE_CSS = `
 @page { size: A4; margin: 8mm 8mm; }
 ${baseCSS}
 .sheet { width: 194mm; margin: 0 auto; }
-.sheet-header { margin-bottom: 4mm; }
-.sheet-header h1 { font-size: 18pt; margin-bottom: 1mm; }
-.sheet-header p  { font-size: 11pt; color: #555; }
-.info-row { font-size: 12pt; margin-bottom: 4mm; }
+.sheet-header { margin-bottom: 3mm; }
+.sheet-header h1 { font-size: 16pt; margin-bottom: 1mm; }
+.sheet-header p  { font-size: 10pt; color: #555; }
+.info-row { font-size: 11pt; margin-bottom: 3mm; }
 .columns { display: flex; gap: 3mm; }
 .columns .col { flex: 1; }
-th, td { font-size: 13pt; line-height: 1.3; padding: 1.6mm 3mm; }
+th, td { font-size: 11pt; line-height: 1.25; padding: 1mm 3mm; }
 .col-chn { width: 32mm; white-space: nowrap; }
 .page-break { page-break-before: always; }
 `;
@@ -201,9 +201,9 @@ export default function FillBlank({ words, setName }) {
 
   /* layout-specific sizes */
   const is1 = layout === 'one';
-  const fontSize = is1 ? '9pt' : '13pt';
-  const pad = is1 ? '0.4mm 2mm' : '1.6mm 3mm';
-  const lh = is1 ? 1.25 : 1.3;
+  const fontSize = is1 ? '9pt' : '11pt';
+  const pad = is1 ? '0.4mm 2mm' : '1mm 3mm';
+  const lh = is1 ? 1.25 : 1.25;
   const chnW = is1 ? '26mm' : '32mm';
   const numW = is1 ? '6mm' : '8mm';
 
@@ -233,13 +233,13 @@ export default function FillBlank({ words, setName }) {
 
   const renderPreviewHeader = () => (
     <>
-      <div style={{ textAlign: 'center', marginBottom: is1 ? '2mm' : '4mm' }}>
-        <h3 style={{ fontSize: is1 ? '14pt' : '18pt', marginBottom: is1 ? '0.5mm' : '1mm' }}>{setName}</h3>
-        <p style={{ fontSize: is1 ? '9pt' : '11pt', color: '#555' }}>請根據中文提示填入正確的英文單字</p>
+      <div style={{ textAlign: 'center', marginBottom: is1 ? '2mm' : '3mm' }}>
+        <h3 style={{ fontSize: is1 ? '14pt' : '16pt', marginBottom: is1 ? '0.5mm' : '1mm' }}>{setName}</h3>
+        <p style={{ fontSize: is1 ? '9pt' : '10pt', color: '#555' }}>請根據中文提示填入正確的英文單字</p>
       </div>
       <div style={{
         display: 'flex', justifyContent: 'center', gap: '10mm',
-        fontSize: is1 ? '10pt' : '12pt', marginBottom: is1 ? '2mm' : '4mm'
+        fontSize: is1 ? '10pt' : '11pt', marginBottom: is1 ? '2mm' : '3mm'
       }}>
         {['班級', '座號', '姓名', '得分'].map(label => (
           <span key={label}>{label}：<span style={{ display: 'inline-block', width: '20mm', borderBottom: '1px solid #333' }}>&nbsp;</span></span>
