@@ -1,0 +1,505 @@
+{
+  "title": "八年級第一學期第二次單字競賽",
+  "words": [
+    {
+      "id": 1,
+      "english": "someone",
+      "chinese": "n.某人 (= somebody)"
+    },
+    {
+      "id": 2,
+      "english": "break",
+      "chinese": "v.打破、損壞"
+    },
+    {
+      "id": 3,
+      "english": "do the dishes",
+      "chinese": "洗碗盤"
+    },
+    {
+      "id": 4,
+      "english": "half",
+      "chinese": "n.一半；二分之一"
+    },
+    {
+      "id": 5,
+      "english": "past",
+      "chinese": "prep.; adv.; adj.; n.經過、過去(的)"
+    },
+    {
+      "id": 6,
+      "english": "leave",
+      "chinese": "v.離開"
+    },
+    {
+      "id": 7,
+      "english": "quarter",
+      "chinese": "n.十五分鐘、四分之一"
+    },
+    {
+      "id": 8,
+      "english": "remember",
+      "chinese": "v.記的"
+    },
+    {
+      "id": 9,
+      "english": "take it easy.",
+      "chinese": "放輕鬆"
+    },
+    {
+      "id": 10,
+      "english": "cool down",
+      "chinese": "冷靜一下"
+    },
+    {
+      "id": 11,
+      "english": "close",
+      "chinese": "adj.靠近的"
+    },
+    {
+      "id": 12,
+      "english": "feed",
+      "chinese": "v.餵養"
+    },
+    {
+      "id": 13,
+      "english": "pet",
+      "chinese": "n.寵物"
+    },
+    {
+      "id": 14,
+      "english": "sweep",
+      "chinese": "v.掃"
+    },
+    {
+      "id": 15,
+      "english": "floor",
+      "chinese": "n.地板、樓層"
+    },
+    {
+      "id": 16,
+      "english": "fix",
+      "chinese": "v.修理、解決"
+    },
+    {
+      "id": 17,
+      "english": "drawer",
+      "chinese": "n.抽屜"
+    },
+    {
+      "id": 18,
+      "english": "mop",
+      "chinese": "v.; n.拖地、拖把"
+    },
+    {
+      "id": 19,
+      "english": "stairs",
+      "chinese": "n.樓梯"
+    },
+    {
+      "id": 20,
+      "english": "wipe",
+      "chinese": "v.擦拭"
+    },
+    {
+      "id": 21,
+      "english": "window",
+      "chinese": "n.窗戶"
+    },
+    {
+      "id": 22,
+      "english": "dry",
+      "chinese": "v.; adj.(使)乾燥;乾的"
+    },
+    {
+      "id": 23,
+      "english": "hang",
+      "chinese": "v.吊、掛"
+    },
+    {
+      "id": 24,
+      "english": "clothes",
+      "chinese": "n.衣服"
+    },
+    {
+      "id": 25,
+      "english": "move",
+      "chinese": "v.; n.搬遷;移動"
+    },
+    {
+      "id": 26,
+      "english": "city",
+      "chinese": "n.城市"
+    },
+    {
+      "id": 27,
+      "english": "dream",
+      "chinese": "n.; v.; adj.夢;夢想(的)"
+    },
+    {
+      "id": 28,
+      "english": "almost",
+      "chinese": "adv.幾乎"
+    },
+    {
+      "id": 29,
+      "english": "fall asleep",
+      "chinese": "睡著"
+    },
+    {
+      "id": 30,
+      "english": "scared",
+      "chinese": "adj.害怕的"
+    },
+    {
+      "id": 31,
+      "english": "problem",
+      "chinese": "n.問題"
+    },
+    {
+      "id": 32,
+      "english": "tip",
+      "chinese": "n.訣竅"
+    },
+    {
+      "id": 33,
+      "english": "however",
+      "chinese": "adv.然而"
+    },
+    {
+      "id": 34,
+      "english": "nothing",
+      "chinese": "pron.沒什麼；無事；無物"
+    },
+    {
+      "id": 35,
+      "english": "catch",
+      "chinese": "v.捉；接"
+    },
+    {
+      "id": 36,
+      "english": "through",
+      "chinese": "prep.穿越；從頭到尾"
+    },
+    {
+      "id": 37,
+      "english": "finally",
+      "chinese": "adv.終於；最後"
+    },
+    {
+      "id": 38,
+      "english": "save",
+      "chinese": "v.拯救"
+    },
+    {
+      "id": 39,
+      "english": "terrible",
+      "chinese": "adj.糟糕的；可怕的"
+    },
+    {
+      "id": 40,
+      "english": "hope",
+      "chinese": "v.; n.希望"
+    },
+    {
+      "id": 41,
+      "english": "future",
+      "chinese": "adj.; n.未來(的)"
+    },
+    {
+      "id": 42,
+      "english": "plan",
+      "chinese": "v.; n.規劃；計畫"
+    },
+    {
+      "id": 43,
+      "english": "lawyer",
+      "chinese": "n.律師"
+    },
+    {
+      "id": 44,
+      "english": "job",
+      "chinese": "n.工作"
+    },
+    {
+      "id": 45,
+      "english": "get butterflies in one's stomach",
+      "chinese": "感到緊張"
+    },
+    {
+      "id": 46,
+      "english": "worry",
+      "chinese": "v.; n.擔心"
+    },
+    {
+      "id": 47,
+      "english": "keep",
+      "chinese": "v.持續；保持"
+    },
+    {
+      "id": 48,
+      "english": "idea",
+      "chinese": "n.主意；想法"
+    },
+    {
+      "id": 49,
+      "english": "right",
+      "chinese": "n.權利"
+    },
+    {
+      "id": 50,
+      "english": "put on",
+      "chinese": "phr.穿上"
+    },
+    {
+      "id": 51,
+      "english": "reporter",
+      "chinese": "n.記者"
+    },
+    {
+      "id": 52,
+      "english": "interview",
+      "chinese": "v.; n.採訪；面試"
+    },
+    {
+      "id": 53,
+      "english": "mail carrier",
+      "chinese": "n.郵差(= mailman)"
+    },
+    {
+      "id": 54,
+      "english": "dentist",
+      "chinese": "n.牙醫"
+    },
+    {
+      "id": 55,
+      "english": "factory",
+      "chinese": "n.工廠"
+    },
+    {
+      "id": 56,
+      "english": "fisherman",
+      "chinese": "n.漁夫"
+    },
+    {
+      "id": 57,
+      "english": "secretary",
+      "chinese": "n.秘書"
+    },
+    {
+      "id": 58,
+      "english": "boss",
+      "chinese": "n.老闆"
+    },
+    {
+      "id": 59,
+      "english": "salesman",
+      "chinese": "n.銷售員；業務員"
+    },
+    {
+      "id": 60,
+      "english": "farmer",
+      "chinese": "n.農夫"
+    },
+    {
+      "id": 61,
+      "english": "grow",
+      "chinese": "v.種植；成長"
+    },
+    {
+      "id": 62,
+      "english": "soldier",
+      "chinese": "n.士兵"
+    },
+    {
+      "id": 63,
+      "english": "country",
+      "chinese": "n.國家"
+    },
+    {
+      "id": 64,
+      "english": "truck driver",
+      "chinese": "n.卡車司機"
+    },
+    {
+      "id": 65,
+      "english": "drive",
+      "chinese": "v.開(車)"
+    },
+    {
+      "id": 66,
+      "english": "successful",
+      "chinese": "adj.成功的"
+    },
+    {
+      "id": 67,
+      "english": "find",
+      "chinese": "v.找到、發現"
+    },
+    {
+      "id": 68,
+      "english": "grade",
+      "chinese": "n.年級"
+    },
+    {
+      "id": 69,
+      "english": "decide",
+      "chinese": "v.決定"
+    },
+    {
+      "id": 70,
+      "english": "become",
+      "chinese": "v.成為"
+    },
+    {
+      "id": 71,
+      "english": "relative",
+      "chinese": "n.親戚"
+    },
+    {
+      "id": 72,
+      "english": "believe",
+      "chinese": "v.相信"
+    },
+    {
+      "id": 73,
+      "english": "act",
+      "chinese": "v.表演"
+    },
+    {
+      "id": 74,
+      "english": "all over",
+      "chinese": "遍及"
+    },
+    {
+      "id": 75,
+      "english": "make fun of",
+      "chinese": "取笑"
+    },
+    {
+      "id": 76,
+      "english": "give up",
+      "chinese": "放棄"
+    },
+    {
+      "id": 77,
+      "english": "celebrate",
+      "chinese": "v.慶祝"
+    },
+    {
+      "id": 78,
+      "english": "green",
+      "chinese": "adj.環保的"
+    },
+    {
+      "id": 79,
+      "english": "though",
+      "chinese": "adv.不過、然而"
+    },
+    {
+      "id": 80,
+      "english": "last",
+      "chinese": "v.耐用、維持良好狀態"
+    },
+    {
+      "id": 81,
+      "english": "instead",
+      "chinese": "adv.作為替代"
+    },
+    {
+      "id": 82,
+      "english": "be friendly to…",
+      "chinese": "對…友善"
+    },
+    {
+      "id": 83,
+      "english": "end up",
+      "chinese": "結果是"
+    },
+    {
+      "id": 84,
+      "english": "utensil",
+      "chinese": "n.餐具"
+    },
+    {
+      "id": 85,
+      "english": "stage",
+      "chinese": "n.舞台"
+    },
+    {
+      "id": 86,
+      "english": "sense",
+      "chinese": "n.…感"
+    },
+    {
+      "id": 87,
+      "english": "fashion",
+      "chinese": "n.時尚"
+    },
+    {
+      "id": 88,
+      "english": "unique",
+      "chinese": "adj.獨特的"
+    },
+    {
+      "id": 89,
+      "english": "without",
+      "chinese": "prep.沒有；少了"
+    },
+    {
+      "id": 90,
+      "english": "toast",
+      "chinese": "v.烤"
+    },
+    {
+      "id": 91,
+      "english": "would like",
+      "chinese": "想要"
+    },
+    {
+      "id": 92,
+      "english": "fail",
+      "chinese": "v.失敗"
+    },
+    {
+      "id": 93,
+      "english": "cafeteria",
+      "chinese": "n.自助餐廳"
+    },
+    {
+      "id": 94,
+      "english": "delicious",
+      "chinese": "adj.美味的"
+    },
+    {
+      "id": 95,
+      "english": "flavor",
+      "chinese": "n.味道"
+    },
+    {
+      "id": 96,
+      "english": "skillful",
+      "chinese": "adj.有能力的、技術純熟的"
+    },
+    {
+      "id": 97,
+      "english": "include",
+      "chinese": "v.包括"
+    },
+    {
+      "id": 98,
+      "english": "habit",
+      "chinese": "n.習慣"
+    },
+    {
+      "id": 99,
+      "english": "director",
+      "chinese": "n.導演"
+    },
+    {
+      "id": 100,
+      "english": "prevent",
+      "chinese": "v.避免"
+    }
+  ]
+}
